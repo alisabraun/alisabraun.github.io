@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alisa Braun"
 title_separator          : "-"
 name                     : &name "Alisa Braun"
-description              : &description "personal description"
+description              : &description "Visual psychophysicists"
 url                      : https://alisabraun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alisabraun/alisabraun.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "Alisa_Braun@Berkeley.edu"
   generatedFields:
     date:
       type               : "date"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
