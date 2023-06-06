@@ -17,7 +17,7 @@ Education
 Experience
 ======
 * Bridging Divides Initiative
-  * (https://bridgingdivides.princeton.edu/people/alisa-braun) [Link]
+  * [Link] (https://bridgingdivides.princeton.edu/people/alisa-braun)
 
 * Princeton in Asia Fellow
   * Thailand and Kazakhstan
