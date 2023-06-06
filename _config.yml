@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Alisa Braun"
-  avatar           : "profile.jpg"
-  bio              : "Psychophysicists"
+  avatar           : "profile.JPG"
+  bio              : 
   location         : 
-  employer         : "https://vision.berkeley.edu/people/alisa-braun/"
+  employer         : "UC Berkeley"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LWaQbg8AAAAJ&hl=en&authuser=1&oi=ao"
   email            :
