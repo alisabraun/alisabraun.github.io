@@ -28,7 +28,6 @@ Recommended citation: Braun, A., Otero-Millan, J., Roorda, A., Tuten, W. S. (202
 
 ## University of Denver
 
-Visual Perception, Emotion and Cognition Lab
 Dr. Tim Sweeny
 
 Anisotropic Visual Awareness of Shapes
