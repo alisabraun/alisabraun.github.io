@@ -23,7 +23,9 @@ Dr. Will Tuten
 
 Motion blur near the resolution limit of the parafoveal retina.
 Email for access to talk.
+
 [Access abstract here](https://www.visionsciences.org/talk-session/?id=896)
+
 [Access award here](https://www.visionsciences.org/yellott-award/)
 
 Recommended citation: Braun, A., Groth, I., Otero-Millan, J., Tuten, W. S. (2023). Motion blur near the resolution limit of the parafoveal retina. <i>Vision Sciences Society</i>, St. Pete Beach, FL.
