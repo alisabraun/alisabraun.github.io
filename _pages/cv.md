@@ -17,17 +17,15 @@ Education
 Experience
 ======
 * Bridging Divides Initiative
-  * [Link] (https://bridgingdivides.princeton.edu/people/alisa-braun)
+  * https://bridgingdivides.princeton.edu/people/alisa-braun
 
-* Princeton in Asia Fellow
+* Princeton in Asia
   * Thailand and Kazakhstan
-  * "https://twitter.com/princetoninasia/status/1142780618180308993"
+  * https://twitter.com/princetoninasia/status/1142780618180308993
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
@@ -44,4 +42,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
