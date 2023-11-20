@@ -1,11 +1,11 @@
-t# main links links
+# main links links
 main:
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
     
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Posts"
   #   url: /posts/
