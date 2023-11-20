@@ -5,7 +5,7 @@ main:
     url: /projects/
     
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=LWaQbg8AAAAJ&hl=en&authuser=1&oi=ao
 
   # - title: "Posts"
   #   url: /posts/
