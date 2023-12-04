@@ -27,6 +27,10 @@ The benefits of naturally moving over stabilized stimuli for acuity increase wit
 
 Recommended citation: Braun, A., Otero-Millan, J., Roorda, A., Tuten, W. S. (2021). The benefits of naturally moving over stabilized stimuli for acuity increase with longer presentation times. <i>Optical Society of America’s Fall Vision Meeting<i/>, Virtual.
 
+## Princeton in Asia
+
+[Article here](https://gallery.mailchimp.com/b706db822c325213a3b751039/files/4260cf17-9235-447b-9847-5fe3ebb169ac/PiA_Fellows_2018.pdf)
+
 ## University of Denver
 
 Dr. Tim Sweeny
