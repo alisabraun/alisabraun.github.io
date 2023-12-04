@@ -32,11 +32,13 @@ Recommended citation: Braun, A., Otero-Millan, J., Roorda, A., Tuten, W. S. (202
 Dr. Tim Sweeny
 
 Anisotropic Visual Awareness of Shapes
+
 [Access paper here](https://www.sciencedirect.com/science/article/pii/S0042698919300057?via%3Dihub)
 
 Recommended citation: Braun, A., & Sweeny, T. D. (2019). Anisotropic visual awareness of shapes. <i>Vision research</i>, 156, 17-27.
 
 Object Ambiguity Gates Access to Visual Awareness
+
 [Access abstract here](https://jov.arvojournals.org/article.aspx?articleid=2700130)
 
 Center for Marital and Family Studies, University of Denver
