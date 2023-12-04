@@ -18,16 +18,12 @@ Dr. Will Tuten
 Motion blur near the resolution limit of the parafoveal retina.
 Email for access to talk.
 
-[Access abstract here,](https://jov.arvojournals.org/article.aspx?articleid=2792519)
-
-[ award here](https://www.visionsciences.org/yellott-award/)
+[Access abstract here,](https://jov.arvojournals.org/article.aspx?articleid=2792519), [award here](https://www.visionsciences.org/yellott-award/)
 
 Recommended citation: Braun, A., Groth, I., Otero-Millan, J., Tuten, W. S. (2023). Motion blur near the resolution limit of the parafoveal retina. <i>Vision Sciences Society</i>, St. Pete Beach, FL.
 
 The benefits of naturally moving over stabilized stimuli for acuity increase with longer presentation times.
-[Access talk here (49:10 of the session titled “Optica Vision and Color Fall Data Blast 19 October”),](https://www.osafallvisionmeeting.org/past-meetings)
-
-[ award here](https://optometry.berkeley.edu/young-investigator-award-from-the-optica-fall-vision-meeting/)
+[Access talk here (49:10 of the session titled “Optica Vision and Color Fall Data Blast 19 October”)](https://www.osafallvisionmeeting.org/past-meetings), [award here](https://optometry.berkeley.edu/young-investigator-award-from-the-optica-fall-vision-meeting/)
 
 Recommended citation: Braun, A., Otero-Millan, J., Roorda, A., Tuten, W. S. (2021). The benefits of naturally moving over stabilized stimuli for acuity increase with longer presentation times. <i>Optical Society of America’s Fall Vision Meeting<i/>, Virtual.
 
