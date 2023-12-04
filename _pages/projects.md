@@ -35,7 +35,8 @@ Recommended citation: Braun, A., Groth, I., Otero-Millan, J., Tuten, W. S. (2023
 
 The benefits of naturally moving over stabilized stimuli for acuity increase with longer presentation times.
 Email for access to talk.
-[Access award here](https://optometry.berkeley.edu/young-investigator-award-from-the-optica-fall-vision-meeting/, https://www.osafallvisionmeeting.org/past-meetings)
+[Access talk here, 49:10 of the session titled “Optica Vision and Color Fall Data Blast 19 October.”](https://www.osafallvisionmeeting.org/past-meetings)
+[Access award here](https://optometry.berkeley.edu/young-investigator-award-from-the-optica-fall-vision-meeting/)
 
 Recommended citation: Braun, A., Otero-Millan, J., Roorda, A., Tuten, W. S. (2021). The benefits of naturally moving over stabilized stimuli for acuity increase with longer presentation times. <i>Optical Society of America’s Fall Vision Meeting<i/>, Virtual.
 
