@@ -9,7 +9,8 @@ author_profile: true
 
 Dr. Rachel Jansen and Dr. Erin Flynn-Evans
 
-I study caffeine and sleep on the International Space Station at NASA Ames Research Center in Mountain View, CA. 
+Caffeine and sleep on the International Space Station
+Presenting at NASA's Human Research Program Investigators’ Workshop in 2024 [IWS](https://www.nasa.gov/hrp-iws-2024/)
 
 ## University of California, Berkeley
 
